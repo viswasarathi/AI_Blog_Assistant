@@ -1,7 +1,7 @@
-**✍️ LLaMA 3.1 Blog Generator (Cloud-Powered)**\n
+**✍️ LLaMA 3.1 Blog Generator (Cloud-Powered)**
 
 
-**🌟 Overview**\n
+**🌟 Overview**
 Welcome to the LLaMA 3.1 Blog Generator! This Streamlit application lets you effortlessly generate engaging and informative blog posts on any topic for a specified audience. It's powered by Meta's state-of-the-art LLaMA 3.1 (8B Instruct) Large Language Model.
 
 **Key highlights:**

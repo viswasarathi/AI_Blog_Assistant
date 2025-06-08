@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d3b6f577-895c-46e9-a651-690d7cbd474a)**✍️ LLaMA 3.1 Blog Generator (Cloud-Powered)**
+**✍️ LLaMA 3.1 Blog Generator (Cloud-Powered)**
 
 
 **🌟 Overview**

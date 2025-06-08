@@ -1,4 +1,4 @@
-**✍️ LLaMA 3.1 Blog Generator (Cloud-Powered)**
+![image](https://github.com/user-attachments/assets/d3b6f577-895c-46e9-a651-690d7cbd474a)**✍️ LLaMA 3.1 Blog Generator (Cloud-Powered)**
 
 
 **🌟 Overview**
@@ -72,10 +72,4 @@ Bash
 streamlit run app.py
 Your browser will automatically open the Streamlit app.
 
-⚙️ Project Structure
-.
-├── app.py                     # Main Streamlit application script
-├── requirements.txt           # Python dependencies
-├── .streamlit/                # Streamlit configuration folder
-│   └── secrets.toml           # Securely stores your HF_TOKEN (NOT pushed to Git)
-└── .gitignore                 # Specifies files/folders to ignore from Git
+
